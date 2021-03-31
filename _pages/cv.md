@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-[In PDF Formate](http://odemasi.github.io/files/Demasi_CV.pdf)
+[In PDF Format](http://odemasi.github.io/files/Demasi_CV.pdf)
 
 
 ## Education
@@ -23,7 +23,7 @@ redirect_from:
 
 
 ## Work experience
-======
+<!-- ====== -->
 * 2019-2021: **Postdoc**
   * UC Davis, Computer Science
   * Focus: Dialogue systems
@@ -62,7 +62,7 @@ redirect_from:
   
   
 ## Publications
-======
+<!-- ====== -->
 Please see my [Google Scholar profile](https://scholar.google.com/citations?user=Gxhoh2kAAAAJ&hl=en&oi=ao) until I format my publications for this site.
 
   <ul>{% for post in site.publications %}
@@ -78,19 +78,19 @@ Talks
  -->
   
 ## Teaching
-======
+<!-- ====== -->
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
   
 ## Service and leadership
-======
+<!-- ====== -->
 * Please reference my [CV](http://odemasi.github.io/files/Demasi_CV.pdf).
 
 
 ## Skills
-======
+<!-- ====== -->
 * Python
     * pandas, matplotlib, numpy, statsmodels, scikit-learn, flask, jupyter, pytorch, seaborn, parlai, huggingface/transformers, rpy2
 * SQL
