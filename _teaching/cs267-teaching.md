@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/cs267-teaching
 venue: "UC Berkeley, EECS Department"
-date: 2016
+date: 2016-01-21
 location: "Berkeley, California"
 ---
 

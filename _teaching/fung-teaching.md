@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/fung-teaching
 venue: "UC Berkeley, School of Public Health"
-date: 2017
+date: 2017-09-01
 location: "Berkeley, California"
 ---
 

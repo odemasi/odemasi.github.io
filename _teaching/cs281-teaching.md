@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/cs281-teaching
 venue: "UC Berkeley, EECS Department"
-date: 2014
+date: 2014-09-01
 location: "Berkeley, California"
 ---
 
