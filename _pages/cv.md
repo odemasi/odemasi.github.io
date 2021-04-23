@@ -17,7 +17,7 @@ redirect_from:
 <!-- ====== -->
 
 * Ph.D. in Computer Science, University of California, Berkeley, 2019
-    * *Evaluation of Methods for Data-Driven Tools that Empower Mental Health Professionals**
+    * *Evaluation of Methods for Data-Driven Tools that Empower Mental Health Professionals*
 * B.Sc. Mathematics, McGill University, 2009
 
 
@@ -28,12 +28,12 @@ redirect_from:
 
 * 2019-2021: **Postdoc**
   * UC Davis, Computer Science
-  * Focus: Dialogue systems
+  * Focus: NLP, dialogue systems
   * Supervisor: Zhou Yu
 
 * 2012-2019: **Graduate Student Researcher**
   * UC Berkeley, EECS
-  * Focus: using and evaluating ML methods for mental health applications
+  * Focus: machine learning for mental health applications
   * Advisors: Ben Recht and Jim Demmel
   
 * 2016-2018: **Data Science Fellow**
