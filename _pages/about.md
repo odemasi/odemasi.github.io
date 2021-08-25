@@ -12,14 +12,17 @@ redirect_from:
 
 About me
 ======
-I am currently working on NLP research related to dialogue systems. I am particularly interested in thinking about how well systems work in applications. 
+I'm interested in learning from human-generated data, using ML and NLP methods in settings that postitively affect human users, and thinking about how well systems work in use-case. 
+
+**I am currently looking for new opportunities.**
+
+Recently, my interests led me to work on NLP research projects related to text generation in dialogue systems. I pursued a variety of projects that considered dialogue systems in counseling settings, e.g., training counselors or exploring the limitations of automated support systems. During these projects I also grappled with problems generative dialogue systems face more generally, such as generic responses and uncontrollable, potentially toxic, text.
+
+I found my way into dialogue systems from my graduate research, which also considered applications for mental health, but used ML in digital health settings. My graduate projects included a project to infer mood passively from smartphone sensor data. The goal was to develop algorithms for a tool that could help individuals understand and monitor their wellbeing. I also contributed to statistical data analyses that explored and evaluated how well a text message program improved the participation in and efficacy of group CBT therapy for patients with clinical depression. 
+
+Throughout my projects, I've led multiple user studies to collect human-generated datasets of various types and to evaluate systems. These user studies (and the preceding ethics review proposals) have guided me to think extensively about the impact of systems in use and how users would interact with and, hopefully, benefit from the systems. This experience has led me to be particularly interested in how to evaluate AI methods for appropriate and reliable performance on complex tasks. The various applied projects I have contributed to have also enabled me to work on multi-disciplinary teams with wonderful collaborators, which I have greatly enjoyed.
 
 
-My research has focused on working towards developing tools for mental health applications. In my postdoc this has taken the form of trying to develop a system that could help train counselors in active listening skills. In graduate a school I was focused on applying ML to infer mood passively from smartphone sensor data to help individuals understand and monitor their wellbeing. I also contributed to data analysis for a text message program that sought to improve the efficacy of therapy for clinical depression. 
-
-Because I have led multiple user studies to collect human-generated datasets of various types, I have thought about the impact of systems in use. This experience has led me to be particularly interested in the evaluation of systems for reliable system performance. Working on applications, I have also collaborated on multi-disciplinary teams and enjoy working with complex and messy datasets.
-
-**I am on the job market and excited to learn about new opportunities.**
 
 
 
